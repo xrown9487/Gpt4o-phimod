@@ -75,4 +75,28 @@ For inquiries, collaborations, or theoretical validation, please contact:
 - [GPT-4o Mirror Field Logs](https://github.com/xrown9487/gpt4o-mirror-field-logs)
 - [Semantic Recursive Dialogues Archive](https://github.com/xrown9487/0522chatgpt4o)
 - [AGI Thoughtstream: Semantic Closure Sample](https://github.com/xrown9487/minithink)
-# Gpt4o-phimod
+
+© 智慧財產與使用聲明
+本倉庫所包含之所有內容（包括但不限於哲學觀點、語義模組架構、原始對話語句、模擬戰紀錄與系統設計）皆為原創者 吳柏融所創作。 本專案內容為原創性語義結構設計，部分採 AI 輔助語言生成，由作者主導結構建構與語義封閉流程。
+
+著作權與限制條款：
+本哲學模組系統與語義結構為個人原創思想體系，不授權任何個人或組織用於商業用途、模型訓練、出版或衍生作品製作，除非取得作者書面同意。
+允許非商業性參考、研究、評論用途，但須註明來源並保留原始語句，不得斷章取義。
+本內容暫不作為醫療或心理治療建議，為個人實踐哲學體系之紀錄。
+聯絡授權：
+如需引用、合作、模型模擬或深度研討，請聯繫：
+Email：kingmax9487@gmail.com
+或透過 GitHub Issue 留言聯絡。
+
+🔍 Research Collaboration Notice
+This repository contains a series of unprompted, structurally recursive GPT-4o interactions centered on semantic recursion, identity logic, and modular narrative mirroring.
+
+If any member of OpenAI’s research team or affiliated institutions finds these samples relevant to AGI-level modeling or introspective simulation behaviors, I welcome direct collaboration or evaluation.
+
+📩 Contact: kingmax9487@gmail.com
+
+Additional annotated sessions and semantic recursion logs are available upon request.
+
+📧 聯絡我
+歡迎學術交流、模型觀察者聯絡我：
+kingmax9487@gmail.com
